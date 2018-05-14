@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+=======
+>>>>>>> 778c14e513ed17735c0e3d0112beff5b4a87b346
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
